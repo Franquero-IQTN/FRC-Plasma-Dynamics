@@ -1,12 +1,16 @@
 # Plasma-Toolkit: Multi-Particle FRC Plasma Simulation Engine
 
-Welcome to the **Plasma-Toolkit**, a specialized computational module under the **Franquero Institute for Quantum-Thermodynamic Neuroscience (Franquero-IQTN)**. This repository houses the simulation code and logic for modeling high temperature plasma fusion alongside multi particle isotope expansion.
+Welcome to the **Plasma-Toolkit**, a specialized computational module under the **Franquero Institute for Quantum-Thermodynamic Neuroscience (Franquero-IQTN)**. 
+
+This repository houses the simulation code and logic for modeling high temperature plasma fusion alongside multi particle isotope expansion.
 
 ---
 
 ## Overview
 
-Simulating high temperature plasma fusion alongside standard electron based chemistry requires moving beyond rigid periodic table datasets. This toolkit introduces an **isotope expansion architecture** and a distinct logic branch designed to handle arbitrary reactant pools and nuclear cross sections for Field Reversed Configuration (FRC) research.
+Simulating high temperature plasma fusion alongside standard electron based chemistry requires moving beyond rigid periodic table datasets. 
+
+This toolkit introduces an **isotope expansion architecture** and a distinct logic branch designed to handle arbitrary reactant pools and nuclear cross sections for Field Reversed Configuration (FRC) research.
 
 ---
 
